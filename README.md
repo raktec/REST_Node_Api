@@ -1,5 +1,5 @@
 # REST_Node_Api
-REST is an acronym for Representational State Transfer.In this tutorial, we will learn how to create a RESTful API using Node.js.
+REST is an acronym for Representational State Transfer.In this tutorial, we will learn how to create a RESTful API using Node.js and mangodb.
 This tutorial divided by classes that you understand better way. 
 Dependencies or npm we are using to develop REST Api :
 dependencies 
